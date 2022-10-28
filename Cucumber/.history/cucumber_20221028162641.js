@@ -1,0 +1,1 @@
+export const default = `--format-options '{"snippetInterface": "synchronous"}'`;
